@@ -1,0 +1,40 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/moneySimbol.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kilScore.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/deathScore.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/TimeScore.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE004"]
+    },
+      {
+      "type": "bitmap",
+      "file": "minecraft:font/spirit.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE005"]
+    }
+    
+  ]
+}
